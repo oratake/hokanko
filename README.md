@@ -1,0 +1,2 @@
+# hokanko
+このようにしてreadmeはつくられる。
